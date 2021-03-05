@@ -4,3 +4,4 @@ class ResistorColorDuo
     resistor_colors[0..1].map{|x| COLORS.index(x)}.join().to_i
   end
 end
+#df
